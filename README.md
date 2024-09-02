@@ -25,11 +25,12 @@
 7) Семинары на выбор
 
 **Вторник 10:45-12:10  ГК 527**
+
 **TG чат**
 
 
 # Материалы 
 | Неделя | Слайды семинара | Слайды лекций | 
 |:------:|:----------|:----------:|
-|1| General info [[GitHub](lectures/general_info.ipynb)] <br> Lecture 1. Floating point arithmetic, vector norms [[GitHub](./lectures/lecture-1/lecture-1.ipynb)] <br>  Lecture 2. Matrix norms and unitary matrices [[GitHub](./lectures/lecture-2/lecture-2.ipynb)] <br> Lecture 3. Memory hierarchy, matrix multiplication, Strassen algorithm [[Github](./lectures/lecture-3/lecture-3.ipynb)]|  | [HW1](hw1/HW_1_NLA.ipynb) <br> (Deadline: November, 20, 23:59 MSK) |
-
+|1| |  | |
+|2| |  | |
