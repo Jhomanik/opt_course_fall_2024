@@ -52,4 +52,5 @@
 |3| Autodiff [[GitHub](sems/sems_2024_backprop.pdf)] JAX tutorial [[GitHub](notebooks/jax_tutor.ipynb)] PyTorch tutorial [[GitHub](notebooks/pytorch_tutor.ipynb)] Pipeline tutorial [[GitHub](notebooks/pipeline_tutor.ipynb)] |Градиентный спуск [[Github](lecs/MIPT_Optimization_Fall_2024_3d_lecture.pdf)]|
 |4| Выпуклые множества [[GitHub](sems/convex_sets_sem_4.pdf)] |Ускорения GD и нижние оценки [[Github](lecs/MIPT_Optimization_Fall_2024_4th_lecture.pdf)] |
 |5| Выпуклые функции [[GitHub](sems/sem_5_convex_funcs.pdf)] |Сопряженные градиенты [[Github](lecs/MIPT_Optimization_Fall_2024_5th_lecture.pdf)]|
-|6| Субградиент [[GitHub](sems/sem6_subdiff.pdf)] ||
+|6| Субградиент [[GitHub](sems/sem6_subdiff.pdf)] |Методы второго порядка [[Github](lecs/MIPT_Optimization_Fall_2024_6th_lecture.pdf)]|
+|7| Сопряженные функции и множества [[GitHub](sems/sem_7_dual_funcs_and_sets.pdf)] ||
