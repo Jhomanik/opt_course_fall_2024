@@ -55,4 +55,4 @@
 |6| Субградиент [[GitHub](sems/sem6_subdiff.pdf)] |Методы второго порядка [[Github](lecs/MIPT_Optimization_Fall_2024_6th_lecture.pdf)]|
 |7| Сопряженные функции и множества [[GitHub](sems/sem_7_dual_funcs_and_sets.pdf)] |Франк-Вульф и Projection GD [[Github](lecs/MIPT_Optimization_Fall_2024_7th_lecture.pdf)]|
 |8|  Правило подбора шага и сравнение методов [[GitHub](notebooks/seminar_8_main.ipynb)] / Рестарты и Квази-Ньютоновские методы [[GitHub](notebooks/seminar_8_restarts_and_quasi_newton.ipynb)]|Негладкая оптимизация: субдифф. GD, AdaGrad и Adam [[Github](lecs/MIPT_Optimization_Fall_2024_8th_lecture.pdf)]|
-|8|  Двойственная задача [[GitHub](sems/sem_9_dual_problem.pdf)]||
+|9|  Двойственная задача [[GitHub](sems/sem_9_dual_problem.pdf)]||
