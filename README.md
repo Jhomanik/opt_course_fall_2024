@@ -57,4 +57,6 @@
 |8|  Правило подбора шага и сравнение методов [[GitHub](notebooks/seminar_8_main.ipynb)] / Рестарты и Квази-Ньютоновские методы [[GitHub](notebooks/seminar_8_restarts_and_quasi_newton.ipynb)]|Негладкая оптимизация: субдифф. GD, AdaGrad и Adam [[Github](lecs/MIPT_Optimization_Fall_2024_8th_lecture.pdf)]|
 |9|  Двойственная задача [[GitHub](sems/sem_9_dual_problem.pdf)]| Метод штрафов и ADMM [[Github](lecs/MIPT_Optimization_Fall_2024_9th_lecture.pdf)]|
 |10| Условия оптимальности ККТ [[GitHub](sems/sem_10_KKT.pdf)]| Метод внутренней точки [[Github](lecs/MIPT_Optimization_Fall_2024_10th_lecture.pdf)]|
-|11| Особые классы задач: от LP до SDP [[GitHub](sems/sem_11_standard_problems.pdf)]| |
+|11| Особые классы задач: от LP до SDP [[GitHub](sems/sem_11_standard_problems.pdf)]| Седловая задача [[Github](lecs/MIPT_Optimization_Fall_2024_11th_lecture(1).pdf)]|
+|12| cvxpy tutorial [[GitHub](notebooks/sem10_cvxpy_scipy.ipynb)]| Зеркальный спуск [[Github](lecs/MIPT_Optimization_Fall_2024_12th_lecture.pdf)]|
+|13| Recap лекций [[Github](sems/lec_recap.pdf)] | Стохастическая оптимизация  [[Github](lecs/MIPT_Optimization_Fall_2024_13th_lecture.pdf)]|
