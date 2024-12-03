@@ -24,7 +24,7 @@
 6) Библиотеки для оптимизации: cvxpy, scipy, PyTorch, Jax
 7) Семинары на выбор
 
-**Вторник 10:45-12:10  ГК 527**
+**Вторник 10:45-12:10  УПМ 224**
 
 # Контакты и ссылки
 
@@ -55,4 +55,6 @@
 |6| Субградиент [[GitHub](sems/sem6_subdiff.pdf)] |Методы второго порядка [[Github](lecs/MIPT_Optimization_Fall_2024_6th_lecture.pdf)]|
 |7| Сопряженные функции и множества [[GitHub](sems/sem_7_dual_funcs_and_sets.pdf)] |Франк-Вульф и Projection GD [[Github](lecs/MIPT_Optimization_Fall_2024_7th_lecture.pdf)]|
 |8|  Правило подбора шага и сравнение методов [[GitHub](notebooks/seminar_8_main.ipynb)] / Рестарты и Квази-Ньютоновские методы [[GitHub](notebooks/seminar_8_restarts_and_quasi_newton.ipynb)]|Негладкая оптимизация: субдифф. GD, AdaGrad и Adam [[Github](lecs/MIPT_Optimization_Fall_2024_8th_lecture.pdf)]|
-|9|  Двойственная задача [[GitHub](sems/sem_9_dual_problem.pdf)]||
+|9|  Двойственная задача [[GitHub](sems/sem_9_dual_problem.pdf)]| Метод штрафов и ADMM [[Github](lecs/MIPT_Optimization_Fall_2024_9th_lecture.pdf)]|
+|10| Условия оптимальности ККТ [[GitHub](sems/sem_10_KKT.pdf)]| Метод внутренней точки [[Github](lecs/MIPT_Optimization_Fall_2024_10th_lecture.pdf)]|
+|11| Особые классы задач: от LP до SDP [[GitHub](sems/sem_11_standard_problems.pdf)]| |
